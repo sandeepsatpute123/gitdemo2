@@ -3,3 +3,4 @@
 PASSWORD=$(date +%s)
 echo "${PASSWORD}"
 echo "changes done"
+echo "Jenkins created"
